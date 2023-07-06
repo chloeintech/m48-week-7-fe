@@ -1,0 +1,7 @@
+.crud-container {
+  border: 2px solid black;
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}

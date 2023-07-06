@@ -1,0 +1,9 @@
+{
+  "window.zoomLevel": 2,
+  
+  "workbench.colorCustomizations": {
+      "editor.background": "#220033"
+  },
+
+  "explorer.compactFolders": false
+}
